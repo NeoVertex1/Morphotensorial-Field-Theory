@@ -1,0 +1,5 @@
+{"name": "mis_near_zero", "time": 0.018178224563598633, "memory_mb": 1.828125, "timestamp": "2024-10-26T11:01:52.921679"}
+{"name": "mis_large_magnitude", "time": 0.004060268402099609, "memory_mb": 0.03125, "timestamp": "2024-10-26T11:01:52.929087"}
+{"name": "em_curl", "time": 0.03884077072143555, "memory_mb": 24.234375, "timestamp": "2024-10-26T11:01:52.978113"}
+{"name": "em_divergence", "time": 0.03372979164123535, "memory_mb": 7.46875, "timestamp": "2024-10-26T11:01:53.019639"}
+{"name": "b_field_divergence", "time": 0.02911686897277832, "memory_mb": 1.609375, "timestamp": "2024-10-26T11:01:53.056342"}

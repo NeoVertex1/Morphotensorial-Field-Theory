@@ -1,0 +1,225 @@
+{
+  "timestamp": "20241026_110152",
+  "data_files": [
+    {
+      "filename": "E_x_real.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "field": "electric",
+        "component": "x"
+      }
+    },
+    {
+      "filename": "E_x_imag.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "field": "electric",
+        "component": "x"
+      }
+    },
+    {
+      "filename": "E_y_real.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "field": "electric",
+        "component": "y"
+      }
+    },
+    {
+      "filename": "E_y_imag.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "field": "electric",
+        "component": "y"
+      }
+    },
+    {
+      "filename": "E_z_real.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "field": "electric",
+        "component": "z"
+      }
+    },
+    {
+      "filename": "E_z_imag.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "field": "electric",
+        "component": "z"
+      }
+    },
+    {
+      "filename": "curl_x_real.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "operation": "curl",
+        "component": "x"
+      }
+    },
+    {
+      "filename": "curl_x_imag.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "operation": "curl",
+        "component": "x"
+      }
+    },
+    {
+      "filename": "curl_y_real.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "operation": "curl",
+        "component": "y"
+      }
+    },
+    {
+      "filename": "curl_y_imag.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "operation": "curl",
+        "component": "y"
+      }
+    },
+    {
+      "filename": "curl_z_real.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "operation": "curl",
+        "component": "z"
+      }
+    },
+    {
+      "filename": "curl_z_imag.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "operation": "curl",
+        "component": "z"
+      }
+    },
+    {
+      "filename": "divergence_real.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "operation": "divergence"
+      }
+    },
+    {
+      "filename": "divergence_imag.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "operation": "divergence"
+      }
+    },
+    {
+      "filename": "B_divergence_real.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "operation": "B-field divergence"
+      }
+    },
+    {
+      "filename": "B_divergence_imag.npy",
+      "shape": [
+        1,
+        50,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "operation": "B-field divergence"
+      }
+    }
+  ]
+}

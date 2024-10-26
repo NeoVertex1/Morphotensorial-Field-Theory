@@ -1,0 +1,149 @@
+{
+  "timestamp": "20241026_110153",
+  "data_files": [
+    {
+      "filename": "psi_t_0.0_real.npy",
+      "shape": [
+        1,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "time": 0.0
+      }
+    },
+    {
+      "filename": "psi_t_0.0_imag.npy",
+      "shape": [
+        1,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "time": 0.0
+      }
+    },
+    {
+      "filename": "probability_t_0.0.npy",
+      "shape": [
+        1,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "time": 0.0
+      }
+    },
+    {
+      "filename": "psi_t_0.5_real.npy",
+      "shape": [
+        1,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "time": 0.5
+      }
+    },
+    {
+      "filename": "psi_t_0.5_imag.npy",
+      "shape": [
+        1,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "time": 0.5
+      }
+    },
+    {
+      "filename": "probability_t_0.5.npy",
+      "shape": [
+        1,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "time": 0.5
+      }
+    },
+    {
+      "filename": "psi_t_1.0_real.npy",
+      "shape": [
+        1,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "time": 1.0
+      }
+    },
+    {
+      "filename": "psi_t_1.0_imag.npy",
+      "shape": [
+        1,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "time": 1.0
+      }
+    },
+    {
+      "filename": "probability_t_1.0.npy",
+      "shape": [
+        1,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "time": 1.0
+      }
+    },
+    {
+      "filename": "psi_t_2.0_real.npy",
+      "shape": [
+        1,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "time": 2.0
+      }
+    },
+    {
+      "filename": "psi_t_2.0_imag.npy",
+      "shape": [
+        1,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "time": 2.0
+      }
+    },
+    {
+      "filename": "probability_t_2.0.npy",
+      "shape": [
+        1,
+        50,
+        50
+      ],
+      "dtype": "torch.float32",
+      "metadata": {
+        "time": 2.0
+      }
+    }
+  ]
+}

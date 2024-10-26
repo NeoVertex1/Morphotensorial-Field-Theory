@@ -1,0 +1,7 @@
+{"name": "mis_transform_scale_0.1", "time": 0.002965688705444336, "memory_mb": 0.015625, "timestamp": "2024-10-26T11:01:53.062169"}
+{"name": "mis_transform_scale_1.0", "time": 0.0025899410247802734, "memory_mb": 0.03125, "timestamp": "2024-10-26T11:01:53.065588"}
+{"name": "mis_transform_scale_10.0", "time": 0.003983259201049805, "memory_mb": 0.03125, "timestamp": "2024-10-26T11:01:53.070275"}
+{"name": "quantum_evolution_t_0.0", "time": 0.016305923461914062, "memory_mb": 0.484375, "timestamp": "2024-10-26T11:01:53.089149"}
+{"name": "quantum_evolution_t_0.5", "time": 0.013738870620727539, "memory_mb": 0.078125, "timestamp": "2024-10-26T11:01:53.104374"}
+{"name": "quantum_evolution_t_1.0", "time": 0.042456865310668945, "memory_mb": 0.0625, "timestamp": "2024-10-26T11:01:53.148101"}
+{"name": "quantum_evolution_t_2.0", "time": 0.020740985870361328, "memory_mb": 0.03125, "timestamp": "2024-10-26T11:01:53.170172"}
